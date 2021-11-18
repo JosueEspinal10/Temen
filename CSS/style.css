@@ -136,6 +136,12 @@ a.logo{
     color: gray;
 
   }
+
+  .fa-linkedin {
+  background:white;
+  color: gray;
+}
+
   #home{
     background-color: white;
     border-right: 1px solid lightgray;
